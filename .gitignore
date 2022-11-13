@@ -26,3 +26,8 @@ coverage
 .env.production.local
 
 /dist
+
+# Yarn Integrity file
+.yarn-integrity
+
+gulpfile.js
